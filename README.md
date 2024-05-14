@@ -1,2 +1,4 @@
 # My-Chapter
 I am designing an app called My Chapter. The purpose of this is app will be used for the users to be able to blog their stories, add friends, read posts, have an active news feed. This app will be dynamic. 
+
+My Chapter is a application for inspiration to others. Users will be able to interact with peers, find mentor, share related stories no matter what the situation may be. My Chapter is a place for no judgment. The purpose for this app is to allow users that may suffer from mental illnesses, addiction, suicidal thoughts and trama, to join together to reach out to one another. My Chapter helps users interact with one another to not feel alone, to vent or maybe to even help guide one another. My Chapter is meant for a blogging stream and not so much as a social media stream. Users will still be able to add and search for friends. 
